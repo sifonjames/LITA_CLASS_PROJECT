@@ -1,6 +1,6 @@
 # LITA_CLASS_PROJECT
 
-### project Title: E commerce sale analysis
+### Project Title: E commerce sale analysis
 
 ### Project Overview:
 
@@ -9,4 +9,20 @@ This Data Analysis project aims to generate more insights into sales performance
 ### Data sources
 
 The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other repository site.
+
+### Tools used 
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+     
+- SQL - Structured Query Language for Querying of Data
+     
+- GitHub for Portfolio Building
+
+  ### Data Cleaning and Preparation
+  
+
+
+
 
