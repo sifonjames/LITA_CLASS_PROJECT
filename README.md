@@ -21,11 +21,17 @@ The primary source of data used here is Data Sale.csv and this is an open source
 - GitHub for Portfolio Building
 
 ### Data Cleaning and Preparation
-In the initial phase of Data cleaning and preparations, we perform the following action;
+In the initial phase of Data cleaning and preparations, we performed the following action;
 
 1. Data cleaning and preparation
 2. Handling missing variables
 3. Data cleaning and formatting
+
+### Exploratory Data Anlysis
+EDA involved the exploring of the Data to answer some questions about the Data such as:
+- What is the overall sales trend
+- Which products are the top sellers
+- What are the products on peak sales?
 
    
   
