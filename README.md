@@ -58,13 +58,11 @@ This is where we include some basic lines of codes or queries or even some of th
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
-### Excel Functions
----
+Excel functions were also used to perform calculations such as Addition,Subtraction,etc. Functions include;
+1. SUMF
+2. AVERAGEF
+3. COUNTA
 
-```Excel
-SUMF
-AVERAGEF
-```
 ### Data visualization
 
 😆
