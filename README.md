@@ -67,6 +67,10 @@ Excel functions were also used to perform calculations such as Addition,Subtract
 ![image](https://github.com/user-attachments/assets/106d0a52-21f6-474d-8e9a-6721d83cd783)
 
 
+![image](https://github.com/user-attachments/assets/21c3100f-a3ac-4873-a777-b1dba7208fa2)
+
+
+
 
 😆
 
