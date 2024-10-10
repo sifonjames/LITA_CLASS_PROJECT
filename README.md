@@ -33,7 +33,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
      
 - SQL - Structured Query Language for Querying of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
      
-- GitHub for Portfolio Building
+- GitHub for Portfolio Building [Download Here](https://desktop.github.com/download/)
 
 ### Data Cleaning and Preparation
 ---
