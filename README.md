@@ -64,6 +64,8 @@ Excel functions were also used to perform calculations such as Addition,Subtract
 3. COUNTA
 
 ### Data visualization
+![image](https://github.com/user-attachments/assets/106d0a52-21f6-474d-8e9a-6721d83cd783)
+
 
 
 😆
