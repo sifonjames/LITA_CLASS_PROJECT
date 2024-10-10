@@ -31,7 +31,7 @@ The primary source of data used here is Data Sale.csv and this is an open source
   2. For Analysis
   3. For Data Visualization
      
-- SQL - Structured Query Language for Querying of Data
+- SQL - Structured Query Language for Querying of Data [Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
      
 - GitHub for Portfolio Building
 
