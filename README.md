@@ -69,14 +69,14 @@ Excel functions were also used to perform calculations such as Addition,Subtract
 
 ![image](https://github.com/user-attachments/assets/21c3100f-a3ac-4873-a777-b1dba7208fa2)
 
+### Other data
 
+|STAFF ID| DEPARTMENT|SALARY|
+|--------|-----------|------|
+|AB401 | MANAGEMENT |50,000.00|
+|AB501 | INFO TECH |90,000.00 |
+|AB601 | FINANCE |60,000.00 |
 
-
-😆
-
-| Heading 1| Heading 2| Heading 3|
-|----------|----------|----------|
-| Table 1 | Table 2 | Table 3 |
 
 
 
