@@ -25,7 +25,6 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
 ### Tools used 
 ---
-
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
